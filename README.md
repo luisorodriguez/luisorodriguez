@@ -1,10 +1,18 @@
-# Portfolio
+# Portfolio.
 
 Hi! I enjoy solving problems that involve data analysis and process optimization.
 
 I’m interested in ...
 
 How to reach me: laesenciadeldato@gmail.com
+
+# Projects.
+
+## Data analysis.
+
+## Statistics.
+
+
 
 <!---
 luisorodriguez/luisorodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

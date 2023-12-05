@@ -6,11 +6,9 @@ I’m interested in ...
 
 How to reach me: laesenciadeldato@gmail.com
 
-# Projects.
+## Data analysis Projects.
 
-## Data analysis.
-
-## Statistics.
+## Statistics Projects.
 
 
 

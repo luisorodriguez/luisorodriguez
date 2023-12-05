@@ -10,7 +10,7 @@ How to reach me: laesenciadeldato@gmail.com
 
 ## Statistics Projects.
 
-
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
 <!---
 luisorodriguez/luisorodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
